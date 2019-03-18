@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SimulacionCPU/static/css/main.3a2e2e92.chunk.css"
   },
   {
-    "revision": "73885e5456f6086b4afc3926cc4d4ce7",
+    "revision": "7e202f9698faa1c7a659e1febd0d9c24",
     "url": "/SimulacionCPU/index.html"
   }
 ];
