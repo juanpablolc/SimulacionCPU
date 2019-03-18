@@ -1,0 +1,14 @@
+[
+  { "instruccion": 0, "operacion": "+", "comentario": "Suma" },
+  { "instruccion": 1, "operacion": "-", "comentario": "Resta" },
+  { "instruccion": 2, "operacion": "*", "comentario": "Producto" },
+  { "instruccion": 3, "operacion": "^", "comentario": "Potencia" },
+  { "instruccion": 4, "operacion": "&", "comentario": "AND" },
+  { "instruccion": 5, "operacion": "|", "comentario": "OR" },
+  { "instruccion": 6, "operacion": "M", "comentario": "Mover a memoria" },
+  { "instruccion": 7, "operacion": "F", "comentario": "Finalizar" },
+  { "instruccion": 8, "operacion": "R", "comentario": "Reset" },
+  { "instruccion": 9, "operacion": "/", "comentario": "División" },
+  { "instruccion": 10, "operacion": "!", "comentario": "NOT" },
+  { "instruccion": 11, "operacion": "⊕", "comentario": "XOR" }
+]

@@ -1,0 +1,12 @@
+.marcaDeAgua {
+  position: fixed;
+  bottom: 2rem;
+  left: 2rem;
+  text-align: left;
+}
+
+@media (max-width: 1280px) {
+  .marcaDeAgua {
+    display: none;
+  }
+}

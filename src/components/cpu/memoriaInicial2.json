@@ -1,0 +1,22 @@
+[
+  { "color": "#000", "direccion": 0, "valor": 2688 },
+  { "color": "#000", "direccion": 1, "valor": 1409 },
+  { "color": "#000", "direccion": 2, "valor": 2946 },
+  { "color": "#000", "direccion": 3, "valor": 1667 },
+  { "color": "#000", "direccion": 4, "valor": 1792 },
+  { "color": "#000", "direccion": 5, "valor": null },
+  { "color": "#000", "direccion": 6, "valor": null },
+  { "color": "#000", "direccion": 7, "valor": null },
+  { "color": "#000", "direccion": 8, "valor": null },
+  { "color": "#000", "direccion": 9, "valor": null },
+  { "color": "#000", "direccion": 10, "valor": null },
+  { "color": "#000", "direccion": 11, "valor": null },
+  { "color": "#000", "direccion": 128, "valor": 110 },
+  { "color": "#000", "direccion": 129, "valor": 205 },
+  { "color": "#000", "direccion": 130, "valor": 197 },
+  { "color": "#000", "direccion": 131, "valor": 24 },
+  { "color": "#000", "direccion": 132, "valor": null },
+  { "color": "#000", "direccion": 133, "valor": null },
+  { "color": "#000", "direccion": 134, "valor": null },
+  { "color": "#000", "direccion": 135, "valor": null }
+]
